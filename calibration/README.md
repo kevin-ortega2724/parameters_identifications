@@ -3,7 +3,7 @@
 Este documento detalla el proceso de calibración de la cámara haciendo uso de las bibliotecas OpenCV. Dentro del archivo "calibration.py" se encuentran los parámetros cruciales para esta tarea. Por ejemplo, se ha configurado un límite máximo de 30 iteraciones antes de concluir la prueba, lo cual resulta fundamental para potenciar la precisión de la calibración de la cámara. Además, en este README, se establece un valor de epsilon igual a 0.001 como parte integral de la documentación en el contexto de este repositorio en GitHub.
 
 
-![Camera_calibration](./image1.webp)
+![Camera_calibration](calibration/scripts/image1.webp)
 
 La calibración de cámara es esencial para obtener los parámetros intrínsecos y de distorsión de la cámara. Esto incluye la distancia focal, el punto principal y los coeficientes de distorsión radial y tangencial.
 
@@ -36,4 +36,4 @@ La corrección de distorsión resultante garantiza mediciones precisas y una rep
    - k1, k2, k3: Modelan la distorsión radial.
    - p1 y p2: Modelan la distorsión tangencial.
 
-![Camera_calibration](./Calibration_1.png) ![Camera_calibration](./Calibration_2.png) ![Camera_calibration](./Calibration_3.png)
+![Camera_calibration](calibration/scripts/Calibration_1.png) ![Camera_calibration](calibration/scripts/Calibration_2.png) ![Camera_calibration](calibration/scripts/Calibration_3.png)
