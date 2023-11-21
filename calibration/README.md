@@ -37,4 +37,5 @@ La corrección de distorsión resultante garantiza mediciones precisas y una rep
    - p1 y p2: Modelan la distorsión tangencial.
 
 ![Camera_calibration1](calibration/scripts/Calibration_1.png) ![Camera_calibration1](calibration/scripts/Calibration_2.png) ![Camera_calibration1](calibration/scripts/Calibration_3.png)
-![Calibration Image 1](../data/Calibration_1.png)
+![Calibration Image 1](../calibration/Calibration_1.png)
+
