@@ -1,10 +1,10 @@
 import numpy as np
 
 # Tamaño de los cuadrados en el patrón de ajedrez (en metros)
-square_size = 0.02  # 2 cm
+square_size = 0.047  # 2 cm
 
 # Número de filas y columnas en el patrón de ajedrez (interior)
-pattern_size = (9, 6)  # Cambia esto según tu patrón
+pattern_size = (8, 8)  # Cambia esto según tu patrón
 
 # Crear los object_points
 object_points = np.zeros((np.prod(pattern_size), 3), dtype=np.float32)
