@@ -36,4 +36,4 @@ La corrección de distorsión resultante garantiza mediciones precisas y una rep
    - k1, k2, k3: Modelan la distorsión radial.
    - p1 y p2: Modelan la distorsión tangencial.
 
-![Camera_calibration](calibration/scripts/Calibration_1.png) ![Camera_calibration](calibration/scripts/Calibration_2.png) ![Camera_calibration](calibration/scripts/Calibration_3.png)
+![Camera_calibration1](calibration/scripts/Calibration_1.png) ![Camera_calibration1](calibration/scripts/Calibration_2.png) ![Camera_calibration1](calibration/scripts/Calibration_3.png)
