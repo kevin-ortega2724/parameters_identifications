@@ -38,4 +38,7 @@ La corrección de distorsión resultante garantiza mediciones precisas y una rep
 
 ![Camera_calibration1](calibration/scripts/Calibration_1.png) ![Camera_calibration1](calibration/scripts/Calibration_2.png) ![Camera_calibration1](calibration/scripts/Calibration_3.png)
 
+![Calibration Image 1](../data/Calibration_1.png)
+
+
 
