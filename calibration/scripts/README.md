@@ -42,11 +42,11 @@ Estas las entrega el script llamado **calibration.py**
 <details>
   <summary>Ver Imágenes</summary>
 
-  <div align="center">
-    ![Camera_calibration1](images/Calibration_1.png)
-    ![Calibration Image 3](images/Calibration_2.png)
-    ![Camera_calibration3](images/Calibration_3.png)
-  </div>
+  <p align="center">
+    <img src="images/Calibration_1.png" alt="Camera_calibration1">
+    <img src="images/Calibration_2.png" alt="Calibration Image 3">
+    <img src="images/Calibration_3.png" alt="Camera_calibration3">
+  </p>
 
 </details>
 
