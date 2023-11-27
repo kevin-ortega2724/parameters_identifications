@@ -39,9 +39,14 @@ La corrección de distorsión resultante garantiza mediciones precisas y una rep
 4. **Imágenes de muestra**
 
 Estas las entrega el script llamado **calibration.py**
-![Camera_calibration1](images/Calibration_1.png)
-![Calibration Image 3](images/Calibration_2.png)
-![Camera_calibration3](images/Calibration_3.png)
+<details>
+  <summary>Ver Imágenes</summary>
+
+  ![Camera_calibration1](images/Calibration_1.png)
+  ![Calibration Image 3](images/Calibration_2.png)
+  ![Camera_calibration3](images/Calibration_3.png)
+
+</details>
 
 
 
